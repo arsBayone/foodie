@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     #my app
     "config",
     "foodie_app",
+    "recipes",
     
 ]
 
