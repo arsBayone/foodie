@@ -1,5 +1,5 @@
 from django.contrib import admin
-from foodie_app.models import  Recipe
+from .models import  Recipe
 
 
 

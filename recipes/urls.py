@@ -3,4 +3,4 @@ from . import views
 
 app_name = "recipes"
 
-urlpatterns = [path("", views.index)]
+urlpatterns = [path("", views.recipes)] 

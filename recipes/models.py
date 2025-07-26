@@ -1,6 +1,6 @@
 from django.db import models
 
-from foodie_app.models import Category
+from .models import Category
 
 class Recipe(models.Model):
     name = models.CharField(max_length=200)
